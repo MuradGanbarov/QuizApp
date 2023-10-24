@@ -1,0 +1,14 @@
+C:\Users\Murad\Desktop\Task_Interface_Static\QuizConsoleApp\QuizConsoleApp\bin\Debug\net6.0\QuizConsoleApp.exe
+C:\Users\Murad\Desktop\Task_Interface_Static\QuizConsoleApp\QuizConsoleApp\bin\Debug\net6.0\QuizConsoleApp.deps.json
+C:\Users\Murad\Desktop\Task_Interface_Static\QuizConsoleApp\QuizConsoleApp\bin\Debug\net6.0\QuizConsoleApp.runtimeconfig.json
+C:\Users\Murad\Desktop\Task_Interface_Static\QuizConsoleApp\QuizConsoleApp\bin\Debug\net6.0\QuizConsoleApp.dll
+C:\Users\Murad\Desktop\Task_Interface_Static\QuizConsoleApp\QuizConsoleApp\bin\Debug\net6.0\QuizConsoleApp.pdb
+C:\Users\Murad\Desktop\Task_Interface_Static\QuizConsoleApp\QuizConsoleApp\obj\Debug\net6.0\QuizConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\Task_Interface_Static\QuizConsoleApp\QuizConsoleApp\obj\Debug\net6.0\QuizConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\Task_Interface_Static\QuizConsoleApp\QuizConsoleApp\obj\Debug\net6.0\QuizConsoleApp.AssemblyInfo.cs
+C:\Users\Murad\Desktop\Task_Interface_Static\QuizConsoleApp\QuizConsoleApp\obj\Debug\net6.0\QuizConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\Task_Interface_Static\QuizConsoleApp\QuizConsoleApp\obj\Debug\net6.0\QuizConsoleApp.dll
+C:\Users\Murad\Desktop\Task_Interface_Static\QuizConsoleApp\QuizConsoleApp\obj\Debug\net6.0\refint\QuizConsoleApp.dll
+C:\Users\Murad\Desktop\Task_Interface_Static\QuizConsoleApp\QuizConsoleApp\obj\Debug\net6.0\QuizConsoleApp.pdb
+C:\Users\Murad\Desktop\Task_Interface_Static\QuizConsoleApp\QuizConsoleApp\obj\Debug\net6.0\QuizConsoleApp.genruntimeconfig.cache
+C:\Users\Murad\Desktop\Task_Interface_Static\QuizConsoleApp\QuizConsoleApp\obj\Debug\net6.0\ref\QuizConsoleApp.dll
